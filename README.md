@@ -25,11 +25,9 @@ docker run \
 ### Run it adding an alias to you local environment
 
 #### Edit your Linux / OSX aliases..
-```
-cd $HOME
-vim .aliases
+`cd $HOME`
 
-```
+`vim .aliases`
 #### .. And add those few lines
 ```
 alias aws=docker run \
