@@ -10,7 +10,7 @@
 ```
 docker run \
  -e AWS_ACCESS_KEY_ID=$YOUR_ACCESS_KEY \
- -e AWS_SECRET_KEY_ID=$YOUR_SECRET_KEY \
+ -e AWS_SECRET_ACCESS_KEY=$YOUR_SECRET_KEY \
  heyitsmozzie/docker-aws-cli:latest [options] <command> <subcommand> [<subcommand> ...] [parameters]
 ```
 
