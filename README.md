@@ -1,4 +1,3 @@
-[![](https://badge.imagelayers.io/heyitsmozzie/docker-aws-cli:latest.svg)](https://imagelayers.io/?images=heyitsmozzie/docker-aws-cli:latest 'Get your own badge on imagelayers.io')
 ## Light weight & easy to use AWS-CLI container
 
 ### Pull it
