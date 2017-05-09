@@ -21,7 +21,7 @@ docker run \
     heyitsmozzie/docker-aws-cli:latest [options] <command> <subcommand> [<subcommand> ...] [parameters]
 ```
 
-### Run it adding an alias to you local environment
+### Run it adding an alias to your local environment
 
 #### Edit your Linux / OSX aliases..
 `cd $HOME`
